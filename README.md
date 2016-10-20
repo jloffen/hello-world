@@ -1,2 +1,3 @@
 # hello-world
-My first
+First
+I am a scrum master for Wal-Mart
